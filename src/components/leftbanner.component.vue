@@ -13,10 +13,12 @@
             <div>
                 {{ $t("DEGREE") }}
             </div>
+            <div>
+                This page is still in Work! :)
+            </div>
         </div>
         <div class="skill-chart">
-            <SkillsComponent />
-
+            <!--<SkillsComponent />-->
         </div>
     </div>
 </template>
