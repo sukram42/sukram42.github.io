@@ -24,10 +24,10 @@
 </template>
 
 <script>
-    import SkillsComponent from "./skills.component";
+    // import SkillsComponent from "./skills.component";
     export default {
-        name: "LeftBanner",
-        components: {SkillsComponent}
+        name: "LeftBanner"//,
+        //components: {SkillsComponent}
     }
 </script>
 
